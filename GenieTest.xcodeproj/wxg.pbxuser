@@ -1,0 +1,212 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* GenieTestAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {820, 625}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 481}";
+		};
+	};
+	1D3623250D0F684500981E51 /* GenieTestAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {865, 2500}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 465}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* GenieTest */ = {
+		activeExec = 0;
+		executables = (
+			EC18BC01174C67EF00A8E253 /* GenieTest */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* GenieTestViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {820, 560}}";
+			sepNavSelRange = "{167, 0}";
+			sepNavVisRange = "{0, 235}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* GenieTestViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {820, 1700}}";
+			sepNavSelRange = "{204, 0}";
+			sepNavVisRange = "{0, 523}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = EC18BC01174C67EF00A8E253 /* GenieTest */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* GenieTest */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* GenieTest */,
+		);
+		codeSenseManager = EC18BC06174C680D00A8E253 /* Code sense */;
+		executables = (
+			EC18BC01174C67EF00A8E253 /* GenieTest */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					642,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 390883311;
+			PBXWorkspaceStateSaveDate = 390883311;
+		};
+		perUserProjectItems = {
+			EC18BC1C174C68CE00A8E253 /* PBXTextBookmark */ = EC18BC1C174C68CE00A8E253 /* PBXTextBookmark */;
+			EC18BC1D174C68CE00A8E253 /* PBXTextBookmark */ = EC18BC1D174C68CE00A8E253 /* PBXTextBookmark */;
+			EC18BC1E174C68CE00A8E253 /* PBXTextBookmark */ = EC18BC1E174C68CE00A8E253 /* PBXTextBookmark */;
+			EC18BC1F174C68CE00A8E253 /* PBXTextBookmark */ = EC18BC1F174C68CE00A8E253 /* PBXTextBookmark */;
+			EC18BC20174C68CE00A8E253 /* PBXTextBookmark */ = EC18BC20174C68CE00A8E253 /* PBXTextBookmark */;
+			EC18BC21174C68CE00A8E253 /* PBXTextBookmark */ = EC18BC21174C68CE00A8E253 /* PBXTextBookmark */;
+			EC18BC22174C68CE00A8E253 /* PBXTextBookmark */ = EC18BC22174C68CE00A8E253 /* PBXTextBookmark */;
+		};
+		sourceControlManager = EC18BC05174C680D00A8E253 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	EC18BC01174C67EF00A8E253 /* GenieTest */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GenieTest;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	EC18BC05174C680D00A8E253 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	EC18BC06174C680D00A8E253 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	EC18BC09174C683200A8E253 /* UIView+Genie.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {439, 1350}}";
+			sepNavSelRange = "{189, 0}";
+			sepNavVisRange = "{252, 252}";
+		};
+	};
+	EC18BC0A174C683200A8E253 /* UIView+Genie.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {820, 13700}}";
+			sepNavSelRange = "{164, 33}";
+			sepNavVisRange = "{0, 543}";
+		};
+	};
+	EC18BC1C174C68CE00A8E253 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* GenieTestAppDelegate.m */;
+		name = "GenieTestAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 465;
+		vrLoc = 0;
+	};
+	EC18BC1D174C68CE00A8E253 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC18BC09174C683200A8E253 /* UIView+Genie.h */;
+		name = "UIView+Genie.h: 8";
+		rLen = 0;
+		rLoc = 163;
+		rType = 0;
+		vrLen = 426;
+		vrLoc = 0;
+	};
+	EC18BC1E174C68CE00A8E253 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EC18BC0A174C683200A8E253 /* UIView+Genie.m */;
+		name = "UIView+Genie.m: 9";
+		rLen = 33;
+		rLoc = 164;
+		rType = 0;
+		vrLen = 543;
+		vrLoc = 0;
+	};
+	EC18BC1F174C68CE00A8E253 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* GenieTestAppDelegate.h */;
+		name = "GenieTestAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 481;
+		vrLoc = 0;
+	};
+	EC18BC20174C68CE00A8E253 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* GenieTestViewController.h */;
+		name = "GenieTestViewController.h: 9";
+		rLen = 0;
+		rLoc = 167;
+		rType = 0;
+		vrLen = 235;
+		vrLoc = 0;
+	};
+	EC18BC21174C68CE00A8E253 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GenieTestViewController.m */;
+		name = "GenieTestViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 531;
+		vrLoc = 0;
+	};
+	EC18BC22174C68CE00A8E253 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GenieTestViewController.m */;
+		name = "GenieTestViewController.m: 10";
+		rLen = 0;
+		rLoc = 204;
+		rType = 0;
+		vrLen = 523;
+		vrLoc = 0;
+	};
+}
